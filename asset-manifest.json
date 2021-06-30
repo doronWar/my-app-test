@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git@github.com:doronWar/my-app-test.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/git@github.com:doronWar/my-app-test.git/static/js/main.8c5379e5.chunk.js",
+    "main.js.map": "/git@github.com:doronWar/my-app-test.git/static/js/main.8c5379e5.chunk.js.map",
+    "runtime-main.js": "/git@github.com:doronWar/my-app-test.git/static/js/runtime-main.89488d49.js",
+    "runtime-main.js.map": "/git@github.com:doronWar/my-app-test.git/static/js/runtime-main.89488d49.js.map",
+    "static/js/2.0776a14c.chunk.js": "/git@github.com:doronWar/my-app-test.git/static/js/2.0776a14c.chunk.js",
+    "static/js/2.0776a14c.chunk.js.map": "/git@github.com:doronWar/my-app-test.git/static/js/2.0776a14c.chunk.js.map",
+    "static/js/3.dd157172.chunk.js": "/git@github.com:doronWar/my-app-test.git/static/js/3.dd157172.chunk.js",
+    "static/js/3.dd157172.chunk.js.map": "/git@github.com:doronWar/my-app-test.git/static/js/3.dd157172.chunk.js.map",
+    "index.html": "/git@github.com:doronWar/my-app-test.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/git@github.com:doronWar/my-app-test.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.0776a14c.chunk.js.LICENSE.txt": "/git@github.com:doronWar/my-app-test.git/static/js/2.0776a14c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/git@github.com:doronWar/my-app-test.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89488d49.js",
+    "static/js/2.0776a14c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.8c5379e5.chunk.js"
+  ]
+}
